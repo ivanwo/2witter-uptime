@@ -11,6 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /2witter-uptime
+  logoUrl: https://2witter.com/favicon.ico
   name: 2witter Uptime
   introTitle: ""
   introMessage: ""
