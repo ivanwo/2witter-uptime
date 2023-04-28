@@ -4,17 +4,19 @@
     "url": "https://2witter.com/",
     "icon": "https://icons.duckduckgo.com/ip3/2witter.com.ico",
     "slug": "2witter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 796,
-    "timeDay": 903,
-    "timeWeek": 655,
-    "timeMonth": 797,
-    "timeYear": 796,
-    "dailyMinutesDown": {}
+    "time": 790,
+    "timeDay": 476,
+    "timeWeek": 579,
+    "timeMonth": 774,
+    "timeYear": 790,
+    "dailyMinutesDown": {
+      "2023-04-28": 0
+    }
   }
 ]
