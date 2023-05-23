@@ -4,7 +4,7 @@
     "url": "https://2witter.com/",
     "icon": "https://icons.duckduckgo.com/ip3/2witter.com.ico",
     "slug": "2witter",
-    "status": "up",
+    "status": "down",
     "uptime": "97.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 728,
     "timeYear": 781,
     "dailyMinutesDown": {
+      "2023-05-23": 0,
       "2023-05-01": 1179,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
