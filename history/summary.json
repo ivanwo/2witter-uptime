@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/2witter.com.ico",
     "slug": "2witter",
     "status": "up",
-    "uptime": "96.13%",
+    "uptime": "96.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.91%",
-    "time": 989,
-    "timeDay": 1185,
-    "timeWeek": 997,
-    "timeMonth": 1060,
-    "timeYear": 998,
+    "time": 987,
+    "timeDay": 553,
+    "timeWeek": 901,
+    "timeMonth": 1066,
+    "timeYear": 996,
     "dailyMinutesDown": {
       "2024-01-17": 19,
       "2023-11-09": 1399,
@@ -37,8 +37,7 @@
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
-      "2023-10-20": 1440,
-      "2023-10-19": 1440
+      "2023-10-20": 1440
     }
   }
 ]
