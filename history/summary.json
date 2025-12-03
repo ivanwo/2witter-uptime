@@ -6,25 +6,23 @@
     "slug": "2witter",
     "status": "up",
     "uptime": "97.59%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.91%",
     "time": 1038,
-    "timeDay": 442,
+    "timeDay": 586,
     "timeWeek": 801,
-    "timeMonth": 901,
-    "timeYear": 1041,
+    "timeMonth": 923,
+    "timeYear": 1044,
     "dailyMinutesDown": {
-      "2025-12-02": 13,
       "2025-11-18": 146,
       "2025-10-20": 100,
       "2025-08-26": 28,
       "2025-08-12": 77,
       "2025-08-06": 26,
       "2025-08-03": 31,
-      "2025-07-14": 19,
-      "2024-12-03": 36
+      "2025-07-14": 19
     }
   }
 ]
